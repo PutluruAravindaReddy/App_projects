@@ -11,7 +11,10 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-<h2>Sample output</h2>
+<h2>GUI</h2>
 
 <img src="img/GUIofinterface.jpg" width="70%" height="400px"/>
 
+<h2>Sample output</h2>
+
+<img src="img/exampleresponse.png" width="70%" height="400px"/>
