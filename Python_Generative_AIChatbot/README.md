@@ -13,7 +13,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 <h2>GUI</h2>
 
-<img src="img/GUIofchatbot.jpg" width="70%" height="400px"/>
+<img src="img/GUIofchatbot.jpeg" width="70%" height="400px"/>
 
 <h2>Sample output</h2>
 
