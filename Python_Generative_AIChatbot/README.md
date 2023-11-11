@@ -13,5 +13,5 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 <h2>Sample output</h2>
 
-<img src="img/GUIofinterface" width="50%" height="500px"/>
+<img src="img/GUIofinterface.jpg" width="50%" height="400px"/>
 
