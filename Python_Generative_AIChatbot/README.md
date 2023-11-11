@@ -17,4 +17,4 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 <h2>Sample output</h2>
 
-<img src="img/exampleresponse.png" width="70%" height="400px"/>
+<img src="img/examleresponse.png" width="70%" height="400px"/>
